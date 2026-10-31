@@ -1,0 +1,33 @@
+Copyright (c) 2026 nekomiyanatuki
+
+N2K-LICENSE-v1.0.1
+
+Permitted Actions: 
+- Personal use
+- Reproduction
+- Modification
+- Adding new elements
+- Redistribution of modified versions
+- Non-commercial use
+
+Requirements: 
+- Retain the original author's name. Example: "Copyright (c) 2026 nekomiyanatuki"
+- Display the original repository URL. Example: "https://github.com/nekomiyanatuki/NekomiyaStudio-with-NekomiyaCity"
+- Clearly indicate any modifications
+- Do not mislead others into believing that you have official approval or support from the original author or the original work. Prohibited Actions: - Impersonating the author using an unmodified clone. - Illegal use that violates Japanese law or the Constitution of Japan. - Use that violates the terms of service of Discord, GitHub, or any other platform used. - Use of cheat tools, decompilation, or data mining of personal information and databases.
+- Large-scale modifications that deviate significantly from the repository's primary purpose (*1: Large-scale modifications)
+- Use involving the trading of money or items of value
+- Use primarily intended for political parties, political campaigns, political organizations, religious organizations, or religious activities
+- Creation of large-scale derivative works using the original work's name, logo, characters, etc. (*1: Large-scale modifications)
+- Use that misleads others into believing the work is the official version, authorized version, or an official derivative of the original work
+
+*(1): "Large-scale modification" refers to altering all or a substantial portion of the original work's primary functions, structure, design, settings, name, or core code.
+
+When redistributing this software or its derivatives, the following information must be displayed in a prominent location: 
+- Original author's name (e.g.:nekomiyanatuki)
+- Original work title (e.g.:NekomiyaStudio-with-NekomiyaCity)
+- URL of the original repository (e.g.:https://github.com/nekomiyanatuki/NekomiyaStudio-with-NekomiyaCity)
+- The full text of this license or a reference to this license
+- If modifications have been made, a summary of those changes (*1: Basic Disclosure Method)
+
+*(1): "Basic Disclosure Method" refers to the act of explicitly stating key information regarding the modifications (in the broad sense) in the README, the LICENSE, or in a Hotfix at the time of Commit.
